@@ -283,7 +283,7 @@ def update_paddle(pad):
     # if neither, move the paddle according to its velocity
     else:
         paddle_y[pad] += paddle_vel[pad]
-    # retun new polygone point coordinates for the paddle
+    # retun new polygon point coordinates for the paddle
     return [
             [PADDLE_X[pad], paddle_y[pad]], 
             [(PADDLE_X[pad] + PADDLE_WIDTH[pad]), paddle_y[pad]], 
