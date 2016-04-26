@@ -3,7 +3,7 @@
 # =============================================================================
 # Digital Ping Pong
 # v1.66
-# By Chloe Unrau 2013
+# By Tristen Unrau 2013
 # An event-driven program in Python created for CodeSkulptor.
 # To play the game, paste this code into codeskulptor.org and press play.
 # =============================================================================
